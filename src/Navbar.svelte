@@ -17,5 +17,5 @@
 </style>
 
 <div class="navbar">
-  <a href="#">{heading}</a>
+  <a href="/">{heading}</a>
 </div>
